@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDev64
-- 👀 I’m interested in Web engineering
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: [Discord: Jaden#1339](https://discordapp.com/users/265503057133961226/)
